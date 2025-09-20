@@ -1,1 +1,1 @@
-# iplacex-cine-api-sergio_lara
+API REST Express para administración de películas favoritas de empleados de IPLACEX
